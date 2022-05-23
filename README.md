@@ -1,6 +1,9 @@
 Hi, I'm  DarkSide Nice to meet you!
+
 I'm a teenager.
+
 I'm a Professional Python Devloper (5+ Years of experience).
+
 I like creating bots and applications.
 
 <!---
