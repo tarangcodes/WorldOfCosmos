@@ -1,8 +1,7 @@
-Hi, I'm DarkSide nice to meet you.
-
-I'm a student, a bot developer, a programmer,a science communicator, a hacker.
-
-Pronouns : They/Them.
+Hi, I'm  DarkSide Nice to meet you!
+I'm a teenager.
+I'm a Professional Python Devloper (5+ Years of experience).
+I like creating bots and applications.
 
 <!---
 WorldOfCosmos/WorldOfCosmos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
