@@ -1,2 +1,2 @@
-Hi, I'm  DarkSide Nice to meet you! I'm just a teenager who likes to code python
+Hi, I'm  Tarang. Nice to meet you! I am currently on a journey to learn HTML, CSS, Javascript, Front-end, Back-end, UI/UX and advanced Web designing with passion in making projects using python and learning AI, ML, Datascience and Data analytics with side small skills like being professional in every microsoft and adobe applications. 
 
